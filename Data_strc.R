@@ -45,5 +45,16 @@ numbers <- seq(from = 0, to = 100, by = 20)
 
 numbers
 
+#list
+thislist <- list("apple", "banana", "cherry")
+
+# Print the list
+thislist
+
+#accessing the list
+
+thislist <- list("apple", "banana", "cherry")
+
+thislist[1]
 
 
